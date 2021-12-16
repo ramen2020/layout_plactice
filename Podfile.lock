@@ -1,3 +1,24 @@
-PODFILE CHECKSUM: f8c104db03f7a1085b0fe52be4a0ef3a81857369
+PODS:
+  - PureLayout (3.1.9)
+  - SnapKit (5.0.1)
+  - Then (2.7.0)
+
+DEPENDENCIES:
+  - PureLayout
+  - SnapKit
+  - Then
+
+SPEC REPOS:
+  trunk:
+    - PureLayout
+    - SnapKit
+    - Then
+
+SPEC CHECKSUMS:
+  PureLayout: 5fb5e5429519627d60d079ccb1eaa7265ce7cf88
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  Then: acfe0be7e98221c6204e12f8161459606d5d822d
+
+PODFILE CHECKSUM: 467dbe4b52af1252fd87d7c051a1384d26885667
 
 COCOAPODS: 1.10.1

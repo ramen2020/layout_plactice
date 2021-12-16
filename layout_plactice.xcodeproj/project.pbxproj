@@ -180,6 +180,7 @@
 				66B40364276AC23000337A03 /* Sources */,
 				66B40365276AC23000337A03 /* Frameworks */,
 				66B40366276AC23000337A03 /* Resources */,
+				7039DA87EC091F6308068AD3 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -217,6 +218,7 @@
 				66B40385276AC23200337A03 /* Sources */,
 				66B40386276AC23200337A03 /* Frameworks */,
 				66B40387276AC23200337A03 /* Resources */,
+				1ABC4105C675624961FFF831 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -298,6 +300,40 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
+		1ABC4105C675624961FFF831 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-layout_plactice-layout_placticeUITests/Pods-layout_plactice-layout_placticeUITests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-layout_plactice-layout_placticeUITests/Pods-layout_plactice-layout_placticeUITests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-layout_plactice-layout_placticeUITests/Pods-layout_plactice-layout_placticeUITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		7039DA87EC091F6308068AD3 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-layout_plactice/Pods-layout_plactice-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-layout_plactice/Pods-layout_plactice-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-layout_plactice/Pods-layout_plactice-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
 		7E88010F4153AB84CA4A18D4 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
