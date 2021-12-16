@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0BF829C12736B7217CEF2149 /* Pods_layout_placticeTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3478E1EC790DBA7C3006CCC2 /* Pods_layout_placticeTests.framework */; };
+		5CD3D0AC3A4B02AF16541FA7 /* Pods_layout_plactice_layout_placticeUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AB6A5E512E77AC06EBBCE564 /* Pods_layout_plactice_layout_placticeUITests.framework */; };
+		6646F1C96B71A5DD4C1A9F8E /* Pods_layout_plactice.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 75B32E86854D623ED072C1CE /* Pods_layout_plactice.framework */; };
 		66B4036C276AC23000337A03 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66B4036B276AC23000337A03 /* AppDelegate.swift */; };
 		66B4036E276AC23100337A03 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66B4036D276AC23100337A03 /* SceneDelegate.swift */; };
 		66B40370276AC23100337A03 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66B4036F276AC23100337A03 /* ViewController.swift */; };
@@ -35,6 +38,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3478E1EC790DBA7C3006CCC2 /* Pods_layout_placticeTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_layout_placticeTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		38869624001B44C47BE7C6DA /* Pods-layout_plactice-layout_placticeUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-layout_plactice-layout_placticeUITests.debug.xcconfig"; path = "Target Support Files/Pods-layout_plactice-layout_placticeUITests/Pods-layout_plactice-layout_placticeUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		38923DE350D8377529ACFDEA /* Pods-layout_placticeTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-layout_placticeTests.release.xcconfig"; path = "Target Support Files/Pods-layout_placticeTests/Pods-layout_placticeTests.release.xcconfig"; sourceTree = "<group>"; };
 		66B40368276AC23000337A03 /* layout_plactice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = layout_plactice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		66B4036B276AC23000337A03 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		66B4036D276AC23100337A03 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -49,6 +55,12 @@
 		66B40389276AC23200337A03 /* layout_placticeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = layout_placticeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		66B4038D276AC23200337A03 /* layout_placticeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = layout_placticeUITests.swift; sourceTree = "<group>"; };
 		66B4038F276AC23200337A03 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		75B32E86854D623ED072C1CE /* Pods_layout_plactice.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_layout_plactice.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		83F1CDE914FA85F517135C71 /* Pods-layout_plactice-layout_placticeUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-layout_plactice-layout_placticeUITests.release.xcconfig"; path = "Target Support Files/Pods-layout_plactice-layout_placticeUITests/Pods-layout_plactice-layout_placticeUITests.release.xcconfig"; sourceTree = "<group>"; };
+		900161F225120D8CD7B3B7F5 /* Pods-layout_placticeTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-layout_placticeTests.debug.xcconfig"; path = "Target Support Files/Pods-layout_placticeTests/Pods-layout_placticeTests.debug.xcconfig"; sourceTree = "<group>"; };
+		AB6A5E512E77AC06EBBCE564 /* Pods_layout_plactice_layout_placticeUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_layout_plactice_layout_placticeUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		AEDA37CB845DD51D3C50BC38 /* Pods-layout_plactice.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-layout_plactice.debug.xcconfig"; path = "Target Support Files/Pods-layout_plactice/Pods-layout_plactice.debug.xcconfig"; sourceTree = "<group>"; };
+		E3128245A003A52BD79E6002 /* Pods-layout_plactice.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-layout_plactice.release.xcconfig"; path = "Target Support Files/Pods-layout_plactice/Pods-layout_plactice.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +68,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6646F1C96B71A5DD4C1A9F8E /* Pods_layout_plactice.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,6 +76,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0BF829C12736B7217CEF2149 /* Pods_layout_placticeTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -70,12 +84,27 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5CD3D0AC3A4B02AF16541FA7 /* Pods_layout_plactice_layout_placticeUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		32ACEFC3F0148CFAA1BB2B0C /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				AEDA37CB845DD51D3C50BC38 /* Pods-layout_plactice.debug.xcconfig */,
+				E3128245A003A52BD79E6002 /* Pods-layout_plactice.release.xcconfig */,
+				38869624001B44C47BE7C6DA /* Pods-layout_plactice-layout_placticeUITests.debug.xcconfig */,
+				83F1CDE914FA85F517135C71 /* Pods-layout_plactice-layout_placticeUITests.release.xcconfig */,
+				900161F225120D8CD7B3B7F5 /* Pods-layout_placticeTests.debug.xcconfig */,
+				38923DE350D8377529ACFDEA /* Pods-layout_placticeTests.release.xcconfig */,
+			);
+			name = Pods;
+			path = Pods;
+			sourceTree = "<group>";
+		};
 		66B4035F276AC23000337A03 = {
 			isa = PBXGroup;
 			children = (
@@ -83,6 +112,8 @@
 				66B40381276AC23200337A03 /* layout_placticeTests */,
 				66B4038C276AC23200337A03 /* layout_placticeUITests */,
 				66B40369276AC23000337A03 /* Products */,
+				32ACEFC3F0148CFAA1BB2B0C /* Pods */,
+				B6554F14DAB1F6A2B3B274A3 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -128,6 +159,16 @@
 			path = layout_placticeUITests;
 			sourceTree = "<group>";
 		};
+		B6554F14DAB1F6A2B3B274A3 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				75B32E86854D623ED072C1CE /* Pods_layout_plactice.framework */,
+				AB6A5E512E77AC06EBBCE564 /* Pods_layout_plactice_layout_placticeUITests.framework */,
+				3478E1EC790DBA7C3006CCC2 /* Pods_layout_placticeTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -135,6 +176,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 66B40392276AC23200337A03 /* Build configuration list for PBXNativeTarget "layout_plactice" */;
 			buildPhases = (
+				C161BD5A3727A11D10CE08BE /* [CP] Check Pods Manifest.lock */,
 				66B40364276AC23000337A03 /* Sources */,
 				66B40365276AC23000337A03 /* Frameworks */,
 				66B40366276AC23000337A03 /* Resources */,
@@ -152,6 +194,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 66B40395276AC23200337A03 /* Build configuration list for PBXNativeTarget "layout_placticeTests" */;
 			buildPhases = (
+				EEF185C049AB6AA26A1B6D49 /* [CP] Check Pods Manifest.lock */,
 				66B4037A276AC23200337A03 /* Sources */,
 				66B4037B276AC23200337A03 /* Frameworks */,
 				66B4037C276AC23200337A03 /* Resources */,
@@ -170,6 +213,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 66B40398276AC23200337A03 /* Build configuration list for PBXNativeTarget "layout_placticeUITests" */;
 			buildPhases = (
+				7E88010F4153AB84CA4A18D4 /* [CP] Check Pods Manifest.lock */,
 				66B40385276AC23200337A03 /* Sources */,
 				66B40386276AC23200337A03 /* Frameworks */,
 				66B40387276AC23200337A03 /* Resources */,
@@ -252,6 +296,75 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		7E88010F4153AB84CA4A18D4 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-layout_plactice-layout_placticeUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C161BD5A3727A11D10CE08BE /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-layout_plactice-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		EEF185C049AB6AA26A1B6D49 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-layout_placticeTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		66B40364276AC23000337A03 /* Sources */ = {
@@ -433,6 +546,7 @@
 		};
 		66B40393276AC23200337A03 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = AEDA37CB845DD51D3C50BC38 /* Pods-layout_plactice.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -452,6 +566,7 @@
 		};
 		66B40394276AC23200337A03 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E3128245A003A52BD79E6002 /* Pods-layout_plactice.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -471,6 +586,7 @@
 		};
 		66B40396276AC23200337A03 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 900161F225120D8CD7B3B7F5 /* Pods-layout_placticeTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -493,6 +609,7 @@
 		};
 		66B40397276AC23200337A03 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 38923DE350D8377529ACFDEA /* Pods-layout_placticeTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -515,6 +632,7 @@
 		};
 		66B40399276AC23200337A03 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 38869624001B44C47BE7C6DA /* Pods-layout_plactice-layout_placticeUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -535,6 +653,7 @@
 		};
 		66B4039A276AC23200337A03 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 83F1CDE914FA85F517135C71 /* Pods-layout_plactice-layout_placticeUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
