@@ -6,6 +6,7 @@ target 'layout_plactice' do
   use_frameworks!
   pod 'SnapKit'
   pod 'PureLayout'
+  pod 'Then'
 
   # Pods for layout_plactice
 
