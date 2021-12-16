@@ -5,6 +5,7 @@ target 'layout_plactice' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
   pod 'SnapKit'
+  pod 'PureLayout'
 
   # Pods for layout_plactice
 
